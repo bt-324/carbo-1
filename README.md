@@ -1,4 +1,4 @@
-# Carbo-1 - Notes
+# Carbo-1
 
 Software for onboard computer. 
 
